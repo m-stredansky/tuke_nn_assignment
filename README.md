@@ -1,6 +1,7 @@
+
 # Článok - Deadline 1.4.2024
 
-Každý člen týmu vypracuje samostatne prehľadový článok na tému **Artificial intelligence in the steel industry**. Hoc vaše zadanie rieši len predikciu A/N veličín, v gobále sa zadanie venuje optimalizácií prevádzkových veličín za účelom výroby kvalitného aglomerátu. Vaše zadanie môže niesť názov ktorý súvisí **s dátovou analýzou v hutnickom priemysle a následnej predikcie pomocou neuronovej siete, analýze obrazu a optimalizácií prevádzkových nastavení za účelom skvalitnenia výroby.**
+Každý člen týmu vypracuje samostatne prehľadový článok na tému **Artificial intelligence in the steel industry**. Hoc vaše zadanie rieši len predikciu A/N veličín, v gobále sa zadanie venuje optimalizácií prevádzkových veličín za účelom výroby kvalitného aglomerátu. Vaše zadanie môže niesť názov ktorý súvisí **s dátovou analýzou v hutnickom priemysle a následnej predikcie pomocou neuronovej siete, analýze obrazu a optimalizácií prevádzkových nastavení za účelom skvalitnenia výroby.** Rozsah článku je 3-4 strany v overleaf / LaTeX. 
 
 V článku sa teda môžte zamerať na:
 - predikciu založenú na dátach
