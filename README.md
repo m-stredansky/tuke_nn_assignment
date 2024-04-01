@@ -1,3 +1,5 @@
+**Merania**
+Rozsevy v čase: 11:00, 23:00
 
 # Článok - Deadline 1.4.2024
 
